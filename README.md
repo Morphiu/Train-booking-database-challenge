@@ -136,5 +136,5 @@ Stores booking information including ticket and seat details.
 
 ## Contributing
 
-Feel free to fork this repository.
+Feel free to fork this repository, make some interesting changes and submit a pull request for review! Happy learning!
 
